@@ -405,7 +405,7 @@ function useScrollToBottom(
   // auto scroll
   useEffect(() => {
     if (autoScroll && !detach) {
-      scrollDomToBottom();
+      //scrollDomToBottom();
     }
   });
 
